@@ -1,4 +1,4 @@
-﻿# LGMVIP-Web-Development-Task1
+# LGMVIP-Web-Development-Task1
  
  #About
 Built a Single Page Website using HTML, CSS and JavaScript.
